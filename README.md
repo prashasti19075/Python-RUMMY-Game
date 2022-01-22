@@ -4,6 +4,10 @@ Game Developed using python pygame library for Introduction to programming cours
 # 10 CARDS RUMMY
 
 Simple rummy game wherein 10 cards are distributed to both the players
+## How to play 
+1. Download the entire folder [python rummy game](https://github.com/prashasti19075/Python-RUMMY-Game/tree/master/python%20rummy%20game) to a suitable location on your system
+2. Find the file game.exe
+3. Just launch the file, let the game begin!
 
 ## Process
 
